@@ -1,0 +1,7 @@
+{
+  "name": "group-1023892",
+  "version": "1.0.0",
+  "dependencies": {
+    "process": "^0.11.10"
+  }
+}

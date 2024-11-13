@@ -1,0 +1,74 @@
+[
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "session_name": "Cours : Bases de données avec Hibernate",
+      "teacher_name": "Nathan TRENET"
+    },
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    },
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    },
+    {
+      "start": "09:00",
+      "end": "10:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    },
+    {
+      "start": "10:00",
+      "end": "11:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    },
+    {
+      "start": "10:00",
+      "end": "11:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    },
+    {
+      "start": "10:00",
+      "end": "11:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    },
+    {
+      "start": "11:00",
+      "end": "12:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    },
+    {
+      "start": "11:00",
+      "end": "12:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    },
+    {
+      "start": "11:30",
+      "end": "12:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    },
+    {
+      "start": "11:30",
+      "end": "12:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    },
+    {
+      "start": "11:00",
+      "end": "12:00",
+      "session_name": "Cours : Bases de données avec EntityFramework Core",
+      "teacher_name": "Ethan TRANNET"
+    }
+  ]

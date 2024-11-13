@@ -1,0 +1,13 @@
+{
+    "name": "group-1023892",
+    "version": "1.0.0",
+    "description": "",
+    "main": "tweety_one_pilots.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "main": "node tweety_one_pilots.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
